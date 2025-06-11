@@ -4,8 +4,7 @@
 <dict>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:example.com</string>
-		<string>applinks:www.example.com</string>
+		<string>applinks:bloom-dev-428204.web.app</string>
 	</array>
 </dict>
 </plist>
