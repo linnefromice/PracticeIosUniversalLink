@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["M9HK5742V3.co.bloom.bloom.arata"],
+        "components": [
+          {
+            "/": "/product/*",
+            "comment": "Matches any URL with a path that starts with /product/"
+          },
+          {
+            "/": "/user/*",
+            "comment": "Matches any URL with a path that starts with /user/"
+          },
+          {
+            "/": "/",
+            "comment": "Matches the root URL"
+          }
+        ]
+      }
+    ]
+  }
+}
